@@ -13,9 +13,9 @@ gcloud init
 
 
 ## 2. How to authorize gcloud?
-#### https://cloud.google.com/ click "Try it free" if you don't have an account
+#### Go to https://cloud.google.com/ click "Try it free" if you don't have an account
 #### Register with your email account, e.g. youremail@address.com
-#### authorize gcloud in your local shell:
+#### Authorize gcloud in your local shell:
 gcloud auth login
 
 
@@ -32,7 +32,7 @@ gcloud config set account youremail@address.com
 gcloud config set project PROJECT_ID
 
 
-## 4. Try gcloud interactive in local shell
+## 4. Try gcloud alpha interactive in local shell 
 """Tutorial https://cloudplatform.googleblog.com/2018/03/introducing-GCPs-new-interactive-CLI.html"""
 #### 1) Update SDK components:
 gcloud components update
