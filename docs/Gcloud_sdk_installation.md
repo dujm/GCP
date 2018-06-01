@@ -53,7 +53,7 @@ gcloud components install alpha
 ```markdown
 gcloud alpha interactive
 ```
-#### 4) exit the interative shell by F9 or:
+#### 4) Exit the interative shell by F9 or:
 ```markdown
 exit
 ```
