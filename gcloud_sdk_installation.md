@@ -9,6 +9,7 @@ curl https://sdk.cloud.google.com | bash
 
 ```markdown
 exec -l $SHELL
+```markdown
 
 #### 3) Run gcloud init to initialize the gcloud environment:
 gcloud init
