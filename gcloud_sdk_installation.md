@@ -26,7 +26,7 @@ gcloud auth login
 
 ## **3. How to creat and set a project?**
 #### A Project resource is required to use GCP and forms the basis for using GCP services, enabling billing and etc.
-#### Tutorial https://cloud.google.com/sdk/gcloud/reference/projects/"""
+#### Tutorial https://cloud.google.com/sdk/gcloud/reference/projects/
 
 #### 1) Create a new cloud project on console.developers.google.com
 #### or Create a mew cloud project in local shell:
