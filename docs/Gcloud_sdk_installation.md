@@ -28,10 +28,10 @@ gcloud auth login
 #### A Project resource is required to use GCP and forms the basis for using GCP services, enabling billing and etc.
 #### Tutorial https://cloud.google.com/sdk/gcloud/reference/projects/
 
-#### 1) Create a new cloud PROJECT_ID console.developers.google.com
+#### 1) Create a new cloud PROJECT_ID at console.developers.google.com
 #### or create a mew cloud project_ID in local shell:
 ```markdown
-gcloud projects create 
+gcloud projects create PROJECT_ID
 ```
 #### 2) Set a project in local shell:
 ```markdown
