@@ -16,7 +16,7 @@ exec -l $SHELL
 gcloud init
 ```
 
-## 2. How to authorize gcloud?
+## **2. How to authorize gcloud?**
 #### Go to https://cloud.google.com/ click "Try it free" if you don't have an account
 #### Register with your email account, e.g. youremail@address.com
 #### Authorize gcloud in your local shell:
@@ -24,7 +24,7 @@ gcloud init
 gcloud auth login
 ```
 
-## 3. How to creat and set a project?
+## **3. How to creat and set a project?**
 #### A Project resource is required to use GCP and forms the basis for using GCP services, enabling billing and etc.
 #### Tutorial https://cloud.google.com/sdk/gcloud/reference/projects/"""
 
@@ -39,8 +39,8 @@ gcloud config set account youremail@address.com
 gcloud config set project PROJECT_ID
 ```
 
-## 4. Try gcloud alpha interactive in local shell 
-"""Tutorial https://cloudplatform.googleblog.com/2018/03/introducing-GCPs-new-interactive-CLI.html"""
+## **4. How to install gcloud alpha interactive in local shell?**
+#### Tutorial https://cloudplatform.googleblog.com/2018/03/introducing-GCPs-new-interactive-CLI.html
 #### 1) Update SDK components:
 ```markdown
 gcloud components update
