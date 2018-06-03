@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+navbar-links:
+  #About Me: "aboutme"
+  Resources:
+    #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+   
+    - GCP installation: "https://dujm.github.io/GCP/"
+    - PubMed Literature-mining: "https://dujm.github.io/PubMed-Literature-mining/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://dujm.github.io"
